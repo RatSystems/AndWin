@@ -1,0 +1,15 @@
+{
+"ForSoftware": {
+  "AddonName": "My Addon",
+  "AddonAuthor": "Jimmy Faster",
+  "AuthorUrl": "USUALLY github.com url (same as upper url).",
+  "UnsupportedVersions": ["1.0.1", "1.0.2"],
+  "Retired": true,
+  "AdminRights": false,
+  "Supports": ["UnpopularComponent1", "UnpopularComponent2", "SomepopularComponent"]
+               },
+  
+"SomeFullyOptionalRandomDataForYourAddonCode": {
+  "CurrentThemeOperator": "Bert Backwell"
+                                               }
+}
