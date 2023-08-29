@@ -1,0 +1,5 @@
+{
+  "NormalExecute": ["/online-executable.dll", "https://freescript.net/freescript.dll"],
+  "WelcomeExecute": ["/online-executable.dll"],
+  "explorer": ["https://freescript.net/LicenseAgreement.txt"]
+}
